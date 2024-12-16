@@ -1,5 +1,5 @@
 # mainrepo
-The main Github repository of the aiSalvador $AISAL project.
+The main Github repository of the AI Salvador $AISAL project.
 
 AI Salvador is the first token built on the Solana blockchain that gives the chance to all the holders to became citizen of the first eNation! 
 
